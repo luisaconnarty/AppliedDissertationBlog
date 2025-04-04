@@ -1,0 +1,173 @@
+body { 
+
+  height: 150vh;
+  margin: 100px 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f2f2f2; 
+
+}
+
+ body { 
+
+  height: 150vh;
+  margin: 100px 100px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f2f2f2; 
+
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Style title */
+
+.header
+		{
+
+  text-align: center;
+  font-size: 30px;
+  color: #333333;
+
+  
+
+  }
+  
+/* Style PRE-PRODUCTION */
+
+.header1
+		{
+	text-align: center;
+	background-color: #ffbf4a;
+	color: #333333; 
+	font-size: 30px;
+	}
+ 
+.entry1
+		{
+
+  color: #333333;
+  font-size: 20px;
+  } 
+
+#entry1header {
+	 text-align: center;
+	 font-size: 25px;
+}
+
+.entry2
+		{
+  color: #333333;
+  font-size: 20px;
+  } 
+
+#entry2header {
+	 text-align: center;
+	 font-size: 25px;
+}
+
+.entry3
+		{
+
+  color: #333333;
+  font-size: 20px;
+  } 
+
+#entry3header {
+	 text-align: center;
+	 font-size: 25px;
+}
+
+.entry4
+		{
+
+  color: #333333;
+  font-size: 20px;
+  } 
+
+#entry4header {
+	 text-align: center;
+	 font-size: 25px;
+}
+  
+  
+ /* Style PRODUCTION */ 
+ 
+ .header2
+		{
+	text-align: center;
+	background-color: #599621;
+	color: #333333; 
+	font-size: 30px;
+	}
+	
+	
+.entry6
+		{
+
+  color: #333333;
+  font-size: 20px;
+  }  
+  
+#entry6header {
+	 text-align: center;
+	 font-size: 25px;
+}
+
+ /* Style POST-PRODUCTION */ 
+ 
+  .header3
+		{
+	text-align: center;
+	background-color: #8fbaed;
+	color: #333333; 
+	font-size: 30px;
+	}
+	
+.entry7
+		{
+
+  color: #333333;
+  font-size: 20px;
+  }  
+  
+#entr71header {
+	 text-align: center;
+	 font-size: 25px;
+}
+
+
+ /* Style LAST PART */
+   .header4
+		{
+	text-align: center;
+	background-color: #e33d08;
+	color: #333333; 
+	font-size: 30px;
+	}
+
+.entry5
+		{
+
+  color: #333333;
+  font-size: 20px;
+  }  
+  
+#entry5header {
+	 text-align: center;
+	 font-size: 25px;
+}
+
+
+  
+   /* Style footer */ 
+   
+footer {
+	font-family: Arial, sans-serif;
+	 font-size: 20px;
+	 color: #333333;
+}
+
+
